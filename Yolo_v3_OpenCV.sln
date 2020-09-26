@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30503.244
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Yolo_v3_OpenCV", "Yolo_v3_OpenCV.pyproj", "{EC3AD53F-71DB-457D-BC7C-8C8C968A1873}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EC3AD53F-71DB-457D-BC7C-8C8C968A1873}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC3AD53F-71DB-457D-BC7C-8C8C968A1873}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B11F3B0A-E2FA-44D4-A78B-9A126F69D5D0}
+	EndGlobalSection
+EndGlobal
